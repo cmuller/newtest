@@ -4,5 +4,5 @@ test repository
 Please ignore
 -------------
 
-this is another test repo...
+This is another test repo...
 
